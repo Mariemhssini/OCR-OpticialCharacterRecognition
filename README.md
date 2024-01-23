@@ -15,5 +15,12 @@ This repository contains a project for Optical Character Recognition (OCR) with 
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/your-username/ocr-flask-streamlit.git
-   
+   git clone https://github.com/mariem hssn/OCR-OpticalCharacterRecognition.git
+
+## Usage 
+ **Run the Flack backend** 
+=> python app.py
+
+**Run the Streamlit frontend**
+=> streamlit run frontend.py
+
