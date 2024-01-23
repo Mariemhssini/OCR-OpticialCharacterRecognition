@@ -15,7 +15,7 @@ This repository contains a project for Optical Character Recognition (OCR) with 
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/mariem hssn/OCR-OpticalCharacterRecognition.git
+   git clone https://github.com/Mariemhssini/OCR-OpticialCharacterRecognition.git
 
 ## Usage 
  **Run the Flack backend** 
